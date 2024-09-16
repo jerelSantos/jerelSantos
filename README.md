@@ -1,16 +1,13 @@
-## Hi there 👋
+# Yooo! I'm Jerel 👋
+### 🤓 I'm a Software Engineer with my Computer Science degree from WSU 🐾
+### 🥊 In my free time, I train in MMA and love hitting the gym 💪
+### 🎥 I've got a passion for creating content to show off my projects in an entertaiing and informative format 🎦
+### PLEASE CHECKOUT MY DEVLOGS [HERE](https://www.youtube.com/@EJerel)
+## Currently:
+* I'm working on a AI-powered web app, 🚀Pods🚀<br>
+* Researching and testing different ways to apply, optimize, and strengthen my use of LLM's in my applications <br>
+Peep the repo with all my trial and errors [here](https://github.com/jerelSantos/aiBuzzwordsPlayground)
 
-<!--
-**jerelSantos/jerelSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## It's be great to connect and meet with new people (you)!
+[LinkedIn](https://www.linkedin.com/in/jerelsantos/) <br>
+[Twitter(X)](https://x.com/jerelsantos)
