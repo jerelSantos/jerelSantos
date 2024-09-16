@@ -4,7 +4,7 @@
 ### 🎥 I've got a passion for creating content to show off my projects with an entertaining, humorous, and informative format 🎦
 ### PLEASE CHECKOUT MY DEVLOGS [HERE](https://www.youtube.com/@EJerel)
 ## Currently:
-* I'm working on a AI-powered web app, 🚀Pods🚀<br>
+* I'm working on an AI-powered web app, 🚀Pods🚀<br>
 * Researching and testing different ways to apply, optimize, and strengthen my use of LLM's in my applications <br>
 Peep the repo with all my trial and errors [here](https://github.com/jerelSantos/aiBuzzwordsPlayground)
 
