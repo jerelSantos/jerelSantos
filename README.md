@@ -1,7 +1,7 @@
 # Yooo! I'm Jerel 👋
 ### 🤓 I'm a Software Engineer with my Computer Science degree from WSU 🐾
 ### 🥊 In my free time, I train in MMA and love hitting the gym 💪
-### 🎥 I've got a passion for creating content to show off my projects in an entertaiing and informative format 🎦
+### 🎥 I've got a passion for creating content to show off my projects with an entertaining, humorous, and informative format 🎦
 ### PLEASE CHECKOUT MY DEVLOGS [HERE](https://www.youtube.com/@EJerel)
 ## Currently:
 * I'm working on a AI-powered web app, 🚀Pods🚀<br>
